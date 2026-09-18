@@ -1,17 +1,17 @@
-# A Normal Form for YANG Modeled Data
+# Extending Normalized Forms to String-Derived Types
 
-This is the working area for the individual Internet-Draft, "A Normal Form for YANG Modeled Data".
+This is the working area for the individual Internet-Draft, "Extending Normalized Forms to String-Derived Types".
 
-* [Editor's Copy](https://YOURUSER.github.io/draft-fedyk-netmod-yang-normal-form/#go.draft-fedyk-netmod-yang-normal-form.html)
+* [Editor's Copy](https://samans.github.io/draft-fedyk-netmod-yang-normal-form/#go.draft-fedyk-netmod-yang-normal-form.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-fedyk-netmod-yang-normal-form)
 * [Individual Draft](https://datatracker.ietf.org/doc/html/draft-fedyk-netmod-yang-normal-form)
-* [Compare Editor's Copy to Individual Draft](https://YOURUSER.github.io/draft-fedyk-netmod-yang-normal-form/#go.draft-fedyk-netmod-yang-normal-form.diff)
+* [Compare Editor's Copy to Individual Draft](https://samans.github.io/draft-fedyk-netmod-yang-normal-form/#go.draft-fedyk-netmod-yang-normal-form.diff)
 
 
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/YOURUSER/draft-fedyk-netmod-yang-normal-form/blob/main/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/samans/draft-fedyk-netmod-yang-normal-form/blob/main/CONTRIBUTING.md).
 
 Contributions can be made by creating pull requests.
 The GitHub interface supports creating pull requests using the Edit (✏) button.
