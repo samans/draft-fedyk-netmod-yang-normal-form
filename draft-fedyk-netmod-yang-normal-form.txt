@@ -5,8 +5,8 @@
 Network Modeling                                                D. Fedyk
 Internet-Draft                                   LabN Consulting, L.L.C.
 Intended status: Standards Track                            S. Mansfield
-Expires: 22 March 2027                                          Ericsson
-                                                       18 September 2026
+Expires: 2 May 2027                                             Ericsson
+                                                         29 October 2026
 
 
            Extending Normalized Forms to String-Derived Types
@@ -49,7 +49,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 22 March 2027.
+   This Internet-Draft will expire on 2 May 2027.
 
 Copyright Notice
 
@@ -175,7 +175,7 @@ Table of Contents
    *  XPath equality comparisons may yield incorrect results.
 
    Pattern restrictions alone do not solve this problem, because they
-   validate syntax but do not affect comparison semantics.
+   validate syntax but do not consider comparison semantics.
 
 4.  Design Goals
 
