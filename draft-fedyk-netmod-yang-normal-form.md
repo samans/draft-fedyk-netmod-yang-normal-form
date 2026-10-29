@@ -128,7 +128,7 @@ same value, the following issues can arise:
 * XPath equality comparisons may yield incorrect results.
 
 Pattern restrictions alone do not solve this problem, because they validate
-syntax but do not affect comparison semantics.
+syntax but do not consider comparison semantics.
 
 
 # Design Goals
