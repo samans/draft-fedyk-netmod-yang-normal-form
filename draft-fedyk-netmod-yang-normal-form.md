@@ -525,4 +525,4 @@ the format.
 # Acknowledgments
 {:numbered="false"}
 
-TODO acknowledge.
+The authors would like to thank Balazs Lengyel and Joe Clarke for their comments.
